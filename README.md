@@ -1,5 +1,6 @@
 # Carvana Scraper
 This Python script will scrape data from Carvana.com. It extracts data at the detail view by providing a list of URLs of the detail pages of each car listing. This script and the list of URLs are dynamically generated using Octagon AI and contain self healing properties. This means that if any part of the site changes, the script is able to automatically adapt and is dynamically updated to reflect those changes. 
+### Updated on: Aug 16, 2024
 
 ![Screenshot 2024-08-16 at 10 45 35 PM](https://github.com/user-attachments/assets/21cc2f69-3e51-4678-825a-d4d6d7e4d291)
 
@@ -35,7 +36,7 @@ This will create both json and csv files:
 ![Screenshot 2024-08-16 at 10 49 00 PM](https://github.com/user-attachments/assets/02b914cc-981d-4ca0-bfef-ef094211f7f5)
 
 ## How should I update the script?
-You can use Octagon AI to schedule a new generated script daily, weekly, or monthly. To do so, simply go to https://octagonai.co and sign up.
+You can use Octagon AI to generate a new script in real time. To do so, simply go to https://octagonai.co and sign up.
 
 ## Can Octagon AI scrape for me?
 Yes, you can use Octagon AI to schedule the scraping to automatically run daily, weekly, or monthly. To do so, simply go to https://octagonai.co and sign up.
