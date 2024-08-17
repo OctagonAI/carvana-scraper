@@ -1,6 +1,6 @@
 # Carvana Scraper
-This Python script will scrape data from Carvana.com. It extracts data at the detail view by providing a list of URLs of the detail pages of each car listing. This script and the list of URLs are dynamically generated using Octagon AI and contain self healing properties. This means that if any part of the site changes, the script is able to automatically adapt and is dynamically updated to reflect those changes. 
 ### Updated on: Aug 16, 2024
+This Python script will scrape data from Carvana.com. It extracts data at the detail view by providing a list of URLs of the detail pages of each car listing. This script and the list of URLs are dynamically generated using Octagon AI and contain self healing properties. This means that if any part of the site changes, the script is able to automatically adapt and is dynamically updated to reflect those changes. 
 
 ![Screenshot 2024-08-16 at 10 45 35 PM](https://github.com/user-attachments/assets/21cc2f69-3e51-4678-825a-d4d6d7e4d291)
 
